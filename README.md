@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=Venom&color=E0FFFF&height=300&section=header&text=Hello%20there!%&fontSize=40&animation=twinkling)
 # Hello there, Young Padawan 🧙
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyungjoopark97&count_bg=%23141CC2&title_bg=%2346D3B4&icon=aiqfome.svg&icon_color=%230B0909&title=howdy&edge_flat=false)](https://hits.seeyoufarm.com)
