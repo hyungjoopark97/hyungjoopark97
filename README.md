@@ -6,7 +6,9 @@
 ![Nintendo](https://img.shields.io/badge/nintendo-E60012.svg?&style=for-the-badge&logo=nintendo&logoColor=red)
 ![Nintendo Switch](https://img.shields.io/badge/nintendoswitch-E60012.svg?&style=for-the-badge&logo=nintendo&logoColor=red)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungjoopark97)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungjoopark97)](https://github.com/hyungjoopark97/github-readme-stats)
+[![Solved.ac
+github.com/hyungjoopark97](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
 <!--
