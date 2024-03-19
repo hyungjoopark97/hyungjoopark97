@@ -9,8 +9,8 @@
 ## My Skills 🌱
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=black)
 ### Like&want ⚡
-![Nintendo](https://img.shields.io/badge/nintendo-E60012.svg?&style=for-the-badge&logo=nintendo&logoColor=red)
-![Nintendo Switch](https://img.shields.io/badge/nintendoswitch-E60012.svg?&style=for-the-badge&logo=nintendo&logoColor=red)
+![Nintendo](https://img.shields.io/badge/nintendo-E60012.svg?&style=for-the-badge&logo=nintendo&logoColor=B22222)
+![Nintendo Switch](https://img.shields.io/badge/nintendoswitch-E60012.svg?&style=for-the-badge&logo=nintendoswitch&logoColor=B22222)
 
 #### Stats and gibberish 🎃
 [![hyungjoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungjoopark97)](https://github.com/hyungjoopark97/github-readme-stats)
