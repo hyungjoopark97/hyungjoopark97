@@ -7,7 +7,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ## My Skills 🌱
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=black)
-### What I like the most ⚡
+### Like&want ⚡
 ![Nintendo](https://img.shields.io/badge/nintendo-E60012.svg?&style=for-the-badge&logo=nintendo&logoColor=red)
 ![Nintendo Switch](https://img.shields.io/badge/nintendoswitch-E60012.svg?&style=for-the-badge&logo=nintendo&logoColor=red)
 
