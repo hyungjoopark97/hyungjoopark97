@@ -49,8 +49,8 @@ public class Question {
 		System.out.println(y += 10 - x++); // y += 10의 값은 15, x++는 계산식이 끝난 후 적용되기 때문에 15-2=13이다
 		System.out.println(x+=2); // x의 값이 전 계산에서 3으로 바뀌었기 때문에 x=3이므로 +2를 하면 5가 된다.
 		System.out.println( !('A' <= c && c <='Z') ); // 'A'는 65,'Z'의 값은 90이므로 'A' <= c는 참, c <='Z'또한 참이기에 'A' <= c && c <='Z' 역시 참이지만 앞에 !가 붙었기 때문에 논리값은 false이다.
-		System.out.println('C'-c);
-		System.out.println('5'-'0');
+		System.out.println('C'-c);  // 67-65=2
+		System.out.println('5'-'0'); //
 		System.out.println(c+1);
 		System.out.println(++c);
 		System.out.println(c++);
