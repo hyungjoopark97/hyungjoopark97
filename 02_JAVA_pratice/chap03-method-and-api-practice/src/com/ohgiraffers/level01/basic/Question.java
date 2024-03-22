@@ -4,6 +4,22 @@ public class Question {
 
     public static void main(String[] args) {
 
+ System.out.println("=====Application1====");
+
+        Calculator calc = new Calculator();
+        int sum = calc.sumTwoNumber(10, 20);
+        System.out.println("10과 20의 합은? : " + sum);
+
+        int min = calc.minusTwoNumber(10, 5);
+        System.out.println("10과 5의 차는? : " + min);
+
+        int multi = calc.multiTwoNumber(10, 5);
+        System.out.println("10과 5의 곱은? : " + multi);
+
+        int divide = calc.divideTwoNumber(10, 5);
+        System.out.println("10과 5를 나눈 후의 몫은? : " + divide);
+        
+
         /* 다음 조건을 만족하는 프로그램을 작성하시오.
          *   구현 클래스 Calculator, Application01
          *   구현 내용
