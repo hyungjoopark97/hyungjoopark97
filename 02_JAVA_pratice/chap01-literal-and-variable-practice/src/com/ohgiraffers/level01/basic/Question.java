@@ -7,11 +7,6 @@ public class Question {
         /* Application01
          * 정수형 변수 2개를 선언하여  각 20과 30으로 초기화 한 후
          * 두 수의 더하기, 빼기, 곱하기, 나누기, 나머지를 다음과 같이 출력하세요
-         *
-         *
-         *
-         *
-         *
          * -- 출력 예시 --
          * 더하기 결과  : 50
          * 빼기 결과 : -10
@@ -30,9 +25,26 @@ public class Question {
          * 둘레 : 97.8
          *  */
 
-        /* Application01 */
+        System.out.println("======Application01===========");
 
-        int 
+        int num1 = 20;
+        int num2 = 30;
+
+        System.out.println("20과 30의 합은? : " + (num1 + num2));
+        System.out.println("20과 30의 차는? : " + (num1 - num2));
+        System.out.println("20과 30의 곱은? : " + (num1 * num2));
+        System.out.println("20과 30의 나누기는? : " + (num1 / num2));
+        System.out.println("20과 30의 나누기한 나머지는? : " + (num1 % num2));
+
+        System.out.println("======Application02===========");
+
+        double num3 = 12.5;
+        double num4 = 36.4;
+
+        System.out.println("면적 : " + (num3 * num4));
+        System.out.println("둘레 : " + ((num3 *2) +(num4 * 2)));
+
+
 
     }
 
