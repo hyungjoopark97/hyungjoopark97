@@ -1,0 +1,20 @@
+package com.ohgiraffers.level01.basic;
+
+public class Calculator {
+
+    public int sumTwoNumber(int a, int b){
+
+        return (a + b);
+
+
+    }
+
+    public int minusTwoNumber(int a, int b){
+
+        return (a - b);
+    }
+
+    public int multiTwoNumber(int a, int b){
+
+        return (a * b);
+    }
