@@ -14,7 +14,16 @@ public class Application1 {
         //an.printGugudanFromTwoToNine()
 
         //an.printStarInputRowTimes();
-        an.printTriangleStars();
+        //an.printTriangleStars();
+
+        B_while bw = new B_while();
+        //bw.testWhileExample();
+        //bw.testWhileExample2();
+        C_doWhile c = new C_doWhile();
+        //c.testSimpleDoWhileStatement();
+        c.testDoWhileExample();
+
+
 
 
     }
