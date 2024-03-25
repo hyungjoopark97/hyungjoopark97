@@ -20,7 +20,7 @@ public class Application1 {
         /* if else if 문 호출 확인용 메소드 호출 */
         // c.testSimpleIfElseifStatement();
 
-        c.testNestedIfElseIfStatement();
+        // c.testNestedIfElseIfStatement();
 
         D_switch d = new D_switch();
         //d.testSimpleSwitchStatement();
