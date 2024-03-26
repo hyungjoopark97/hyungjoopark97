@@ -37,6 +37,8 @@ public class Question {
          * System.out.println("필요한 바구니의 수 : " + numOfBucket); -> 10
          */
 
+	    int numOfBucket= numOfApples/sizOfBucket + (numOfApples % sizeOfBucket > 0 ? 1: 0);
+
       System.out.println("==========Application 01 =========");
 
                         int x = 2;
